@@ -5,7 +5,10 @@
 4. [Awesome Android Apps](https://github.com/Psyhackological/AAA#contents)
 5. [Android Foss](https://github.com/offa/android-foss)
 6. [Gcam Ports](https://www.celsoazevedo.com/files/android/google-camera)
-7. 
+7. [Yuurie Android](https://guide.yuuire.com/recommendations/operating-systems/android)
+8. 
+
+
 
 
 
