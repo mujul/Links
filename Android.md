@@ -9,6 +9,6 @@
 8. 
 
 # Mod Apks
-1. [https://liteapks.com/](https://liteapks.com/)
-2. [Modyolo](https://modyolo.com/)
+1. [Liteapks.com](https://liteapks.com/)
+2. [Modyolo.com](https://modyolo.com/)
 3. 
