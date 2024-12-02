@@ -12,4 +12,6 @@
 1. [Liteapks.com](https://liteapks.com/)
 2. [Modyolo.com](https://modyolo.com/)
 3. [5play.org](https://5play.org/en/)
-4. 
+4. [Nicks FairEmail](https://github.com/niks255/FairEmail/releases)
+5. 
+
