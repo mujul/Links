@@ -13,4 +13,5 @@
 
 # IRC Apps
 1. [https://www.irccloud.com/](https://www.irccloud.com/)
-2. 
+2. [https://github.com/MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc)
+3. 
