@@ -1,7 +1,7 @@
 # IRC Wiki
 1. [Netsplit.de/](https://netsplit.de/)
-2. [Github.com/davisonio/awesome-irc](https://github.com/davisonio/awesome-irc)
-3. [https://www.irchelp.org/](https://www.irchelp.org/)
+2. [Awesome IRC](https://github.com/davisonio/awesome-irc)
+3. [Irchelp.org/](https://www.irchelp.org/)
 4. [Ircdriven.com](https://www.ircdriven.com/)
 
 
