@@ -3,6 +3,7 @@
 2. [Awesome IRC](https://github.com/davisonio/awesome-irc)
 3. [Irchelp.org](https://www.irchelp.org/)
 4. [Ircdriven.com](https://www.ircdriven.com/)
+5. [Koshka IRC](https://koshka.love/irc/index.html)
 
 
 
