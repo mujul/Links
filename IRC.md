@@ -1,14 +1,14 @@
 # IRC Wiki
-1. [Netsplit.de/](https://netsplit.de/)
+1. [Netsplit.de](https://netsplit.de/)
 2. [Awesome IRC](https://github.com/davisonio/awesome-irc)
-3. [Irchelp.org/](https://www.irchelp.org/)
+3. [Irchelp.org](https://www.irchelp.org/)
 4. [Ircdriven.com](https://www.ircdriven.com/)
 
 
 
 # Search Engines
-1. [https://www.xdcc.eu/](https://www.xdcc.eu/)
-2. [https://sunxdcc.com/](https://sunxdcc.com/)
+1. [Xdcc.eu](https://www.xdcc.eu/)
+2. [Sunxdcc.com](https://sunxdcc.com/)
 
 
 
