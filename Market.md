@@ -1,5 +1,6 @@
 # Finance Wiki
 1. [https://www.investopedia.com/](https://www.investopedia.com/)
+2. [Awesome Stock Trading](https://github.com/shi-rudo/awesome-stock-trading#readme)
 
 
 
