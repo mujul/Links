@@ -7,7 +7,8 @@
 6. [Gcam Ports](https://www.celsoazevedo.com/files/android/google-camera)
 7. [Yuurie Android](https://guide.yuuire.com/recommendations/operating-systems/android)
 8. [FMHY-Android](https://fmhy.vercel.app/android-iosguide)
-9. 
+9. [https://github.com/timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
+10. 
 
 # Mod Apks
 1. [Liteapks.com](https://liteapks.com/)
