@@ -31,7 +31,7 @@
 
 # Browser Userscripts
 1. [ViolentMonkey Manager](https://violentmonkey.github.io/)
-2. 
+2. [Ads Bypasser](https://adsbypasser.github.io/)
 
 
 
