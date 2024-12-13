@@ -21,7 +21,8 @@
 11. [Web Archives](https://github.com/dessant/web-archives#readme)
 12. [PopupOFF](https://popupoff.org/?source=chrome)
 13. [Behind The Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)
-14. [uMatrix - Advanced Users ONLY](https://github.com/gorhill/uMatrix/wiki)
+14. [Save Tabs](https://karna98.github.io/Save-Tabs/)
+15. [uMatrix - Advanced Users ONLY](https://github.com/gorhill/uMatrix/wiki)
 
 
 # Browser Userscripts
