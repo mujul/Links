@@ -12,3 +12,5 @@
 1. [uBlock Origin](https://github.com/gorhill/uBlock)
 2. [ClearURLs](https://github.com/ClearURLs/Addon)
 3. [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/)
+4. [LibRedirect](https://libredirect.github.io/)
+5. 
