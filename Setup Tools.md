@@ -19,3 +19,4 @@
 9. [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect)
 10. [UltimaDark FF](https://github.com/ThomazPom/Moz-Ext-UltimaDark)
 11. [Web Archives](https://github.com/dessant/web-archives#readme)
+12. [PopupOFF](https://popupoff.org/?source=chrome)
