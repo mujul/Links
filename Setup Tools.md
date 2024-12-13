@@ -15,3 +15,4 @@
 5. [LibRedirect](https://libredirect.github.io/)
 6. [List Feeds FF](https://github.com/igorlogius/list-feeds)
 7. [Reverse Image Search](https://github.com/Brawl345/Image-Reverse-Search-WebExtension)
+8. [Scroll Up Folder FF](https://github.com/PerfectSlayer/scrollupfolder)
