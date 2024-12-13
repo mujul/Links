@@ -10,4 +10,4 @@
 
 # Browser Entensions
 1. [uBlock Origin](https://github.com/gorhill/uBlock)
-2. 
+2. [ClearURLs](https://github.com/ClearURLs/Addon)
