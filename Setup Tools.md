@@ -33,6 +33,7 @@
 # Browser Userscripts
 1. [ViolentMonkey Manager](https://violentmonkey.github.io/)
 2. [Ads Bypasser](https://adsbypasser.github.io/)
+3. [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated)
 
 
 
