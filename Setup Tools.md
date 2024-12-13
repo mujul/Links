@@ -23,7 +23,8 @@
 
 
 # Browser Userscripts
-1. [ViolentMonkey Mqnager](https://violentmonkey.github.io/)
+1. [ViolentMonkey Manager](https://violentmonkey.github.io/)
+2. 
 
 
 
