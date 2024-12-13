@@ -10,8 +10,8 @@
 
 # Browser Entensions
 1. [uBlock Origin](https://github.com/gorhill/uBlock)
-2. [ClearURLs](https://github.com/ClearURLs/Addon)
-3. [Flagfox FF](https://addons.mozilla.org/en-US/firefox/addon/flagfox/)
-4. [LibRedirect](https://libredirect.github.io/)
-5. [List Feeds FF](https://github.com/igorlogius/list-feeds)
-6. [Reverse Image Search](https://github.com/Brawl345/Image-Reverse-Search-WebExtension)
+3. [ClearURLs](https://github.com/ClearURLs/Addon)
+4. [Flagfox FF](https://addons.mozilla.org/en-US/firefox/addon/flagfox/)
+5. [LibRedirect](https://libredirect.github.io/)
+6. [List Feeds FF](https://github.com/igorlogius/list-feeds)
+7. [Reverse Image Search](https://github.com/Brawl345/Image-Reverse-Search-WebExtension)
