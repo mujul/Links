@@ -16,3 +16,4 @@
 6. [List Feeds FF](https://github.com/igorlogius/list-feeds)
 7. [Reverse Image Search](https://github.com/Brawl345/Image-Reverse-Search-WebExtension)
 8. [Scroll Up Folder FF](https://github.com/PerfectSlayer/scrollupfolder)
+9. [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect)
