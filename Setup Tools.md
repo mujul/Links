@@ -10,6 +10,7 @@
 
 # Browser Entensions
 1. [uBlock Origin](https://github.com/gorhill/uBlock)
+2. [b2ntp](https://b2ntp.vercel.app/)
 3. [ClearURLs](https://github.com/ClearURLs/Addon)
 4. [Flagfox FF](https://addons.mozilla.org/en-US/firefox/addon/flagfox/)
 5. [Buster](https://github.com/dessant/buster)
