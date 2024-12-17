@@ -33,7 +33,8 @@
  22. [PopupOFF](https://popupoff.org/?source=chrome)
  23. [Behind The Overlay](https://github.com/NicolaeNMV/BehindTheOverlay)
  24. [Save Tabs](https://karna98.github.io/Save-Tabs/)
- 25. [uMatrix - Advanced Users ONLY](https://github.com/gorhill/uMatrix/wiki)
+ 25. [Keepa](https://keepa.com/)
+ 26. [uMatrix - Advanced Users ONLY](https://github.com/gorhill/uMatrix/wiki)
 
 
 # Browser Userscripts
