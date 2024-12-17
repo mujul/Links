@@ -9,7 +9,7 @@
 
 
 # Browser Entensions
-- [ ] 1. [uBlock Origin](https://github.com/gorhill/uBlock)
+- [x] 1. [uBlock Origin](https://github.com/gorhill/uBlock)
 - [ ] 2. [Undo Close Tabs - PC](https://github.com/M-Reimer/undoclosetab)
 - [ ] 3. [Privacy Badger](https://privacybadger.org/)
 - [ ] 4. [Google Unlocked](https://github.com/Ibit-to/google-unlocked)
