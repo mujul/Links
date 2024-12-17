@@ -10,6 +10,7 @@
 # Services
 1. [Buzz Heavier - File Hoster](https://buzzheavier.com/)
 2. [Reddit Undelete](https://undelete.pullpush.io/)
+3. [Link Locker](https://jstrieb.github.io/link-lock/create/)
 
 
 
