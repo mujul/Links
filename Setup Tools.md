@@ -10,7 +10,10 @@
 
 # Browser Entensions
 - [x] 1. [uBlock Origin](https://github.com/gorhill/uBlock)
+- [ ] [Fast Fordward](https://fastforward.team/)
+- [ ] [Just Read](https://justread.link/#get-Just-Read)
 - [ ] 2. [Undo Close Tabs - PC](https://github.com/M-Reimer/undoclosetab)
+- [ ] [Youtube Sponserblock - PC](https://sponsor.ajay.app/)
 - [ ] 3. [Privacy Badger](https://privacybadger.org/)
 - [ ] 4. [Google Unlocked](https://github.com/Ibit-to/google-unlocked)
 - [ ] 5. [b2ntp](https://b2ntp.vercel.app/)
