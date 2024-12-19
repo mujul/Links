@@ -4,7 +4,7 @@
 
 
 
-# ESM IIMB
+# LEARN
 1. [Indexes](https://bigcharts.marketwatch.com/markets/indexes.asp)
 2. [Theories](https://www.researchgate.net/publication/266476679_The_Application_of_Fibonacci_Sequence_and_Elliot_Wave_Theory_in_Predicting_Security_Price_Movements_A_Survey)
 3. [Elliot Wave Theory](https://www.elliottwave.com/education/)
