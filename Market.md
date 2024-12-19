@@ -15,4 +15,7 @@
 8. Usgw
 9. 
 
+# Resources
+1. [SGB Analyzer](https://sgbanalyzer.com/)
+
 
