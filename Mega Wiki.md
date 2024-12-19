@@ -14,7 +14,9 @@
 2. [Reddit Undelete](https://undelete.pullpush.io/)
 3. [Link Lock](https://jstrieb.github.io/link-lock/create/)
 4. [Toffee Share](https://toffeeshare.com/)
-5. 
+5. [Blaze File Share](https://blaze.vercel.app/)
+
+
 
 
 
