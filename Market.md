@@ -15,7 +15,7 @@
 8. Usgw
 9. 
 
-# Resources
+# Research
 1. [SGB Analyzer](https://sgbanalyzer.com/)
 2. 
 
