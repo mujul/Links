@@ -19,4 +19,11 @@
 
 # BEST Apps
 1. [Nicks FairEmail](https://github.com/niks255/FairEmail/releases)
-2. 
+
+
+
+
+
+
+# Specific/Good Apps
+1. [Grayjay](https://grayjay.app/)
