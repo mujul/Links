@@ -7,7 +7,8 @@
 6. [Neocities.org](https://neocities.org/)
 7. [Disroot.org](https://disroot.org/en)
 8. [Ripped.guide](https://ripped.guide)
-9. 
+9. [Champagne Guide](https://champagne.pages.dev/)
+
 
 
 # Services
