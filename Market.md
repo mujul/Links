@@ -1,6 +1,7 @@
 # Finance Wiki
 1. [Investopedia.com](https://www.investopedia.com/)
 2. [Awesome Stock Trading](https://github.com/shi-rudo/awesome-stock-trading#readme)
+3. [SEBI Investor](https://investor.sebi.gov.in/#)
 
 
 
