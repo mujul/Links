@@ -17,6 +17,6 @@
 4. 
 5. 
 
-# Best Apps
+# BEST Apps
 1. [Nicks FairEmail](https://github.com/niks255/FairEmail/releases)
 2. 
