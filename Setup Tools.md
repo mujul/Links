@@ -46,3 +46,7 @@
 1. [Keepassdx](https://www.keepassdx.com)
 2. [Bitwarden](https://bitwarden.com)
 
+# Two-Factor Authentication Manager
+1. [2fas](https://2fas.com/)
+2. [Ente Auth](https://ente.io)
+3. [Aegis](https://getaegis.app)
