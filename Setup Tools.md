@@ -44,4 +44,5 @@
 
 # Password Manager
 1. [Keepassdx](https://www.keepassdx.com)
+2. [Bitwarden](https://bitwarden.com)
 
