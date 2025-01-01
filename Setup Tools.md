@@ -42,5 +42,6 @@
 2. [Ads Bypasser](https://adsbypasser.github.io/)
 3. [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated)
 
-
+# Password Manager
+1. [Keepassdx](https://www.keepassdx.com)
 
