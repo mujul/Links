@@ -12,13 +12,15 @@
 6.  [Khas Haryanvi/Dhaakad 2](https://radiodhaakad.com:8000/live2?type=.mp3)
 
 ## New Hindi
-1. [Radio Antara](https://stream-140.zeno.fm/zyxm3y2hr0hvv)
+1.
 
 
 
 ## Hindi
 1. [Ayodhya Radio 90.8 FM](https://sonic.onlineaudience.co.uk/8206/stream)
-2. 
+2. [Radio Hotstar](https://mars.streamerr.co/8164/stream)
+3. [Radio Antara](https://stream-140.zeno.fm/zyxm3y2hr0hvv)
+4. 
 
 ## Regional
 1. [Radio Badal](https://str3.openstream.co/1717)
