@@ -35,3 +35,7 @@
 
 ## English
 1. [Simulator Radio](https://simulatorradio.stream/stream)
+
+# DEAD
+1. Radio Wardha
+2. 
