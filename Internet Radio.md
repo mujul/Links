@@ -5,7 +5,7 @@
 3. [Radio Kasoot Raagni](https://azuracast.radiokasoot.com/radio/8010/raagni)
 4. [Radio Kasoot Gaane](https://azuracast.radiokasoot.com/radio/8020/songs)
 5.  [Radio Dhaakad](https://radiodhaakad.com:8000/live)
-6.  [Khas Haryanvi](https://radiodhaakad.com:8000/live2?type=.mp3)
+6.  [Khas Haryanvi/Dhaakad 2](https://radiodhaakad.com:8000/live2?type=.mp3)
 
 
 
