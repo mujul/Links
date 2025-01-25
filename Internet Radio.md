@@ -11,7 +11,7 @@
 5.  [Radio Dhaakad](https://radiodhaakad.com:8000/live)
 6.  [Khas Haryanvi/Dhaakad 2](https://radiodhaakad.com:8000/live2?type=.mp3)
 
-## Old Hindi
+## New Hindi
 1. [Radio Antara](https://stream-140.zeno.fm/zyxm3y2hr0hvv)
 
 
