@@ -21,7 +21,7 @@
 2. [Radio Hotstar](https://mars.streamerr.co/8164/stream)
 3. [Radio Antara](https://stream-140.zeno.fm/zyxm3y2hr0hvv)
 4. [GFSC University](https://gsfcuradio.stacknyu.tech:8000/radio.mp3)
-5. 
+5. [Vividh Bharti](https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8)
 
 
 ## Regional
