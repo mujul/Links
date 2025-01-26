@@ -41,7 +41,7 @@
 10. [Goldy Evergreen](https://stream.zeno.fm/n2fd0edh9k8uv)
 11. [Goldy Cool](http://stream-144.zeno.fm/hhfmh86tfm8uv)
 12. [Goldy Mukesh](https://stream-147.zeno.fm/mrcz5sus1p8uv)
-13. [Link text](https://stream-144.zeno.fm/hx2wtsw2kwkuv)
+13. [Goldy Classic](https://stream-144.zeno.fm/hx2wtsw2kwkuv)
 14. 
 
 
