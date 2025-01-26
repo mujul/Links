@@ -19,7 +19,7 @@
 6.  [Khas Haryanvi/Dhaakad 2](https://radiodhaakad.com:8000/live2?type=.mp3)
 
 ## New Hindi
-1. [Link text](https://strw3.openstream.co/399?aw_0_1st.collectionid%3D6983%26stationId%3D6983%26publisherId%3D219%26k%3D1737867610)
+1. [BIG 106.2](https://strw3.openstream.co/399)
 2. [ISHQ 104.8](https://2.mystreaming.net:443/uber/bollywoodlove/icecast.audio)
 3. 
 
