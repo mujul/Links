@@ -21,7 +21,8 @@
 ## New Hindi
 1. [BIG 106.2](https://strw3.openstream.co/399)
 2. [ISHQ 104.8](https://2.mystreaming.net:443/uber/bollywoodlove/icecast.audio)
-3. 
+3. [Goldy Blast](https://stream-151.zeno.fm/f15rqvwa6p8uv)
+4. 
 
 
 
