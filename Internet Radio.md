@@ -19,7 +19,7 @@
 6.  [Khas Haryanvi/Dhaakad 2](https://radiodhaakad.com:8000/live2?type=.mp3)
 
 ## New Hindi
-1.
+1.[Link text](https://strw3.openstream.co/399?aw_0_1st.collectionid%3D6983%26stationId%3D6983%26publisherId%3D219%26k%3D1737867610)
 
 
 
@@ -33,6 +33,11 @@
 7. [AIR NEWS 24x7](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8)
 8. [AIR FM GOLD Delhi](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8)
 9. [AIR Rainbow](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8)
+10. [Goldy Evergreen](https://stream.zeno.fm/n2fd0edh9k8uv)
+11. [Goldy Cool](http://stream-144.zeno.fm/hhfmh86tfm8uv)
+12. 
+
+
 
 
 
