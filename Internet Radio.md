@@ -23,7 +23,9 @@
 2. [ISHQ 104.8](https://2.mystreaming.net:443/uber/bollywoodlove/icecast.audio)
 3. [Goldy Blast](https://stream-151.zeno.fm/f15rqvwa6p8uv)
 4. [Goldy Fresh](https://stream-152.zeno.fm/5qp76a5h3p8uv)
-5. 
+5. [Mirchi Love](https://nl4.mystreaming.net:443/uber/lrbollywood/icecast.audio)
+
+
 
 ## Hindi
 1. [Ayodhya Radio 90.8 FM](https://sonic.onlineaudience.co.uk/8206/stream)
