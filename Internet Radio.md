@@ -1,6 +1,7 @@
 # Sources
 1. https://tingfm.com/country/india
 2. https://liveradios.in/
+3. https://github.com/junguler/m3u-radio-music-playlists
 
 # Stream URLs
 ## Haryanvi
