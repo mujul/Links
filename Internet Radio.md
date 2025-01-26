@@ -30,6 +30,12 @@
 4. [GFSC University](https://gsfcuradio.stacknyu.tech:8000/radio.mp3)
 5. [Vividh Bharti](https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8)
 6. [Radio Deewane](https://stream-159.zeno.fm/rm4i9pdex3cuv)
+7. [AIR NEWS 24x7](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8)
+8. [AIR FM GOLD Delhi](  
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8)
+
+
+
 
 
 ## Regional/Misc
