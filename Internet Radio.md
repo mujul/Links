@@ -42,7 +42,8 @@
 11. [Goldy Cool](http://stream-144.zeno.fm/hhfmh86tfm8uv)
 12. [Goldy Mukesh](https://stream-147.zeno.fm/mrcz5sus1p8uv)
 13. [Goldy Classic](https://stream-144.zeno.fm/hx2wtsw2kwkuv)
-14. 
+14. [Radio City Hindi](https://stream-146.zeno.fm/pxc55r5uyc9uv)
+15. [Radio City Freedom](hshsisn)
 
 
 
