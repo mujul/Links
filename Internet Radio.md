@@ -25,7 +25,9 @@
 4. [Goldy Fresh](https://stream-152.zeno.fm/5qp76a5h3p8uv)
 5. [Mirchi Love](https://nl4.mystreaming.net:443/uber/lrbollywood/icecast.audio)
 6. [Arijit Singh](https://stream-163.zeno.fm/rfpf8qec94zuv)
-7. 
+7. [Arijit Hits](https://stream-167.zeno.fm/wn6muavgfr2tv)
+8. 
+
 
 
 
