@@ -25,9 +25,6 @@
 4. [Goldy Fresh](https://stream-152.zeno.fm/5qp76a5h3p8uv)
 5. 
 
-
-
-
 ## Hindi
 1. [Ayodhya Radio 90.8 FM](https://sonic.onlineaudience.co.uk/8206/stream)
 2. [Radio Hotstar](https://mars.streamerr.co/8164/stream)
@@ -43,17 +40,7 @@
 12. [Goldy Mukesh](https://stream-147.zeno.fm/mrcz5sus1p8uv)
 13. [Goldy Classic](https://stream-144.zeno.fm/hx2wtsw2kwkuv)
 14. [Radio City Hindi](https://stream-146.zeno.fm/pxc55r5uyc9uv)
-15. [Radio City Freedom](hshsisn)
-
-
-
-
-
-
-
-
-
-
+15.  
 
 ## Regional/Misc
 1. [Radio Badal](https://str3.openstream.co/1717)
@@ -65,6 +52,7 @@
 
 ## English
 1. [Simulator Radio](https://simulatorradio.stream/stream)
+2. [Radio City Freedom](https://prclive4.listenon.in/Freedom)
 
 # DEAD
 1. Radio Wardha
