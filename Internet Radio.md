@@ -29,7 +29,7 @@
 
 ## Regional/Misc
 1. [Radio Badal](https://str3.openstream.co/1717)
-2. [Radio4PunlicHealth.org](https://cast4.my-control-panel.com/proxy/demo4usv/live)
+2. [Radio4PublicHealth.org](https://cast4.my-control-panel.com/proxy/demo4usv/live)
 
 ## Punjabi
 
