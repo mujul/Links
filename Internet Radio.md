@@ -25,6 +25,7 @@
 3. [Radio Antara](https://stream-140.zeno.fm/zyxm3y2hr0hvv)
 4. [GFSC University](https://gsfcuradio.stacknyu.tech:8000/radio.mp3)
 5. [Vividh Bharti](https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8)
+6. [Radio Deewane](https://stream-159.zeno.fm/rm4i9pdex3cuv)
 
 
 ## Regional/Misc
