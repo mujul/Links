@@ -3,7 +3,7 @@
 2. https://liveradios.in/
 3. https://github.com/junguler/m3u-radio-music-playlists
 4. https://fmstream.org/index.php?c=FT
-5. 
+5. https://github.com/mikepierce/internet-radio-streams
 
 # Stream URLs
 ## Haryanvi
