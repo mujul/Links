@@ -40,7 +40,11 @@
 12. [Goldy Mukesh](https://stream-147.zeno.fm/mrcz5sus1p8uv)
 13. [Goldy Classic](https://stream-144.zeno.fm/hx2wtsw2kwkuv)
 14. [Radio City Hindi](https://stream-146.zeno.fm/pxc55r5uyc9uv)
-15.  
+15.  [Radio Lata Mangeshkar](https://stream-162.zeno.fm/87xam8pf7tzuv)
+
+
+
+
 
 ## Regional/Misc
 1. [Radio Badal](https://str3.openstream.co/1717)
