@@ -32,7 +32,10 @@
 6. [Radio Deewane](https://stream-159.zeno.fm/rm4i9pdex3cuv)
 7. [AIR NEWS 24x7](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8)
 8. [AIR FM GOLD Delhi](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8)
-9. 
+9. [AIR Rainbow](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8)
+
+
+
 
 
 
