@@ -27,7 +27,10 @@
 6. [Arijit Singh](https://stream-163.zeno.fm/rfpf8qec94zuv)
 7. [Arijit Hits](https://stream-167.zeno.fm/wn6muavgfr2tv)
 8. [Arijit Singh 2](https://stream-172.zeno.fm/21nwghpv6xzvv)
-9. 
+9. [Sonu Nigam](https://nl4.mystreaming.net:443/uber/bollywoodsonunigam/icecast.audio)
+
+
+
 
 
 
