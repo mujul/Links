@@ -59,6 +59,7 @@
 22.  [Hungama - Evergreen](https://server.mixify.in:8010/radio.mp3)
 23.  [Hungama - Dance Masti](https://nl4.mystreaming.net:443/uber-app/bollywooddance/icecast.audio) proxy needed
 24.  [Unknown](https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/chunklist.m3u8)
+25.  [Indifun](https://www.liveradio.es/http://indifun.net:7000/;stream.mp3)
 
 
 
