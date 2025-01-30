@@ -79,7 +79,8 @@
 
 ## Punjabi
 1. [Hungama - Punjabi Hits](https://s8.voscast.com:7021/stream)
-2. 
+2. [Dhol Radio](https://radio.dholradio.co/radio)
+
 
 
 ## English
