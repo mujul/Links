@@ -5,8 +5,11 @@
 4. https://fmstream.org/index.php?c=FT
 5. https://github.com/mikepierce/internet-radio-streams
 6. https://www.liveradio.es/
-7. 
-
+7. https://hindiradios.com/
+8. https://onlineradiofm.in/
+9. https://www.radioindia.in/
+10. https://zeno.fm/radio/
+11. 
 # Web Apps
 1. Radiolise.com
 2. 
