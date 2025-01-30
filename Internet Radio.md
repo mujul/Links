@@ -74,7 +74,8 @@
 28.  [Easy96 USA](https://ice8.securenetsystems.net/EASY96)
 29.  [BollyHits](http://hoth.alonhosting.com:1080/;)
 30.  [Radio Saptrang](https://stream-157.zeno.fm/ttcsc4tf8yzuv)
-31.  
+31.  [Radio Satrangi](http://85.25.185.202:9069/streamcurrentsong?sid=)
+
 
 
 
