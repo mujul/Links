@@ -4,6 +4,8 @@
 3. https://github.com/junguler/m3u-radio-music-playlists
 4. https://fmstream.org/index.php?c=FT
 5. https://github.com/mikepierce/internet-radio-streams
+6. https://www.liveradio.es/
+7. 
 
 # Web Apps
 1. Radiolise.com
@@ -70,6 +72,8 @@
 1. [Radio Badal](https://str3.openstream.co/1717)
 2. [Radio4PublicHealth.org](https://cast4.my-control-panel.com/proxy/demo4usv/live)
 3. [Radio Azad US](http://usa19.fastcast4u.com:8790)
+4. [Suranjali Instrumental](https://stream-176.zeno.fm/5bewttnnq7zuv)
+5. 
 
 
 
