@@ -93,6 +93,8 @@
 5. [Hydrabadi Radio](https://s5.voscast.com:10469/stream)
 6. [Radio DFC World](https://sonic.onlineaudience.co.uk:10948/stream)
 7. [Radio PaniPoori](http://26343.live.streamtheworld.com/SAM08AAC061_SC)
+8. [Radio Guru](https://stream-175.zeno.fm/r21vkin9s4nuv)
+9. 
 
 
 
