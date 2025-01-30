@@ -76,7 +76,7 @@
 2. [Radio4PublicHealth.org](https://cast4.my-control-panel.com/proxy/demo4usv/live)
 3. [Radio Azad US](http://usa19.fastcast4u.com:8790)
 4. [Suranjali Instrumental](https://stream-176.zeno.fm/5bewttnnq7zuv)
-5. 
+5. [Hydrabadi Radio](https://s5.voscast.com:10469/stream)
 
 
 
