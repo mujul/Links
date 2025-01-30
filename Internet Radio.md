@@ -90,6 +90,7 @@
 ## Punjabi
 1. [Hungama - Punjabi Hits](https://s8.voscast.com:7021/stream)
 2. [Dhol Radio](https://radio.dholradio.co/radio)
+3. [Bol Punjabi](https://bolpunjabi-ekamsoftware.radioca.st/stream/1/)
 
 
 
