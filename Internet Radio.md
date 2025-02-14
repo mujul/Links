@@ -125,7 +125,7 @@
 # Unknown
 1. https://sonic.onlineaudience.co.uk:8124/stream
 
-Scan ports of 
+Scan ports of 8000 to 9000
 88.99.214.115
 
 # DEAD/Not Found
