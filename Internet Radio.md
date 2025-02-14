@@ -40,7 +40,7 @@
 8. [Arijit Singh 2](https://stream-172.zeno.fm/21nwghpv6xzvv)
 9. [Sonu Nigam](https://nl4.mystreaming.net:443/uber/bollywoodsonunigam/icecast.audio)
 10. [Hungama - Bollywood Dil se](https://stream-160.zeno.fm/143d7gty24zuv)
-11. 
+11. [Radio Panna](https://sonic.onlineaudience.co.uk:8158/stream)
 
 
 
