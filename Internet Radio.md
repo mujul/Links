@@ -143,5 +143,5 @@ Scan ports of 8000 to 9000
 11. Radio Badaun
 12. Radio Dhadkan
 13. Radio RBL Raebareli
-14. Radio Kannauj
+14. Voice of Kannauj
 15. 
