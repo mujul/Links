@@ -79,8 +79,8 @@
 27.  [Radio Aashiqanaa](https://sonic.onlineaudience.co.uk/8114/stream)
 28.  [Easy96 USA](https://ice8.securenetsystems.net/EASY96)
 29.  [BollyHits](http://hoth.alonhosting.com:1080/;)
-30.  [Radio Saptrang](https://stream-157.zeno.fm/ttcsc4tf8yzuv)
-31.  [Radio Saptarang Original URL](http://visionary.riggrodigital.com:8138/;)
+30.  [Radio Saptarang Original URL](http://visionary.riggrodigital.com:8138/;)
+31.  
 32.  [Radio Satrangi](http://85.25.185.202:9069/streamcurrentsong?sid=)
 33.  [Radio Rang](https://stream-161.zeno.fm/44r9x09cqchvv)
 34.  [Doon Radio](https://stream-176.zeno.fm/zzsexzcudlruv)
