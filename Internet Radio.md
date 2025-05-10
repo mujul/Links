@@ -19,7 +19,7 @@
 
 # Web Apps
 1. Radiolise.com
-2. 
+2. https://www.radio-browser.info/
 
 # Stream URLs
 ## Haryanvi
