@@ -133,6 +133,12 @@
 ## English
 1. [Simulator Radio](https://simulatorradio.stream/stream)
 2. [Radio City Freedom](https://prclive4.listenon.in/Freedom)
+3. [TheGoosh Elo](http://eu2.fastcast4u.com/proxy/thegooshtrance/stream/stream/)
+4. [TheGoosh Deep House](http://eu2.fastcast4u.com/proxy/thegoosh/stream/stream/)
+5. [TheGoosh 2000](http://eu2.fastcast4u.com/proxy/monohome/stream/stream/)
+6. [TheGoosh R&B](http://eu2.fastcast4u.com/proxy/rnbthegoosh/stream/stream/)
+7. [TheGoosh Privilege](http://eu2.fastcast4u.com/proxy/thegooshchill/stream/stream/)
+8. 
 
 
 # Unknown
