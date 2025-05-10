@@ -8,7 +8,8 @@
 7. [Yuurie Android](https://guide.yuuire.com/recommendations/operating-systems/android)
 8. [FMHY-Android](https://fmhy.vercel.app/android-iosguide)
 9. [Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)
-10. 
+10. https://www.androidfreeware.net/
+11. https://www.openapk.net/
 
 # Mod Apks
 1. [Liteapks.com](https://liteapks.com/)
