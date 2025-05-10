@@ -11,6 +11,8 @@
 10. [IOS Emulator](https://touchhle.org/)
 11. [Phone Link to PC](https://github.com/shrimqy/Sefirah)
 12. https://gearjail.neocities.org/
+13. https://klearprivacy.vercel.app/recommendations/operating-systems/android
+14. 
 
 
 # Services
