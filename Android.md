@@ -33,4 +33,4 @@
 1. [Grayjay](https://grayjay.app/)
 2. [Anytype](https://anytype.io/)
 3. https://github.com/vicolo-dev/chrono
-4. 
+4. https://www.zenz-solutions.de/personaldnsfilter-wp/
