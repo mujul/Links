@@ -12,9 +12,9 @@
 11. [Phone Link to PC](https://github.com/shrimqy/Sefirah)
 12. https://gearjail.neocities.org/
 13. https://klearprivacy.vercel.app/recommendations/operating-systems/android
-14. 
-https://prompts.chat/
-
+14. https://prompts.chat/
+15. 
+https://ethical.net/resources/
 
 # Services
 1. [Buzz Heavier - File Hoster](https://buzzheavier.com/)
