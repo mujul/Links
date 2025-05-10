@@ -12,7 +12,8 @@
 11. https://www.openapk.net/
 12. [Mx Player Codec](https://xdaforums.com/t/mx-player-custom-codec-ac3-dts-mlp-truehd-etc.2156254/)
 13. [MX Player Codec 2](https://mx.j2inter.com/ffmpeg)
-14. 
+14. https://plexus.techlore.tech/
+15. 
 
 # Mod Apks
 1. [Liteapks.com](https://liteapks.com/)
