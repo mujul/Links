@@ -10,6 +10,8 @@
 9. [Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)
 10. https://www.androidfreeware.net/
 11. https://www.openapk.net/
+12. [Mx Player Codec](https://xdaforums.com/t/mx-player-custom-codec-ac3-dts-mlp-truehd-etc.2156254/)
+13. 
 
 # Mod Apks
 1. [Liteapks.com](https://liteapks.com/)
