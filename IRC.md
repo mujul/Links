@@ -10,6 +10,7 @@
 # Search Engines
 1. [Xdcc.eu](https://www.xdcc.eu/)
 2. [Sunxdcc.com](https://sunxdcc.com/)
+3. https://www.xdcc.rocks/
 
 
 
