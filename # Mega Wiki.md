@@ -14,7 +14,7 @@
 13. https://klearprivacy.vercel.app/recommendations/operating-systems/android
 14. https://prompts.chat/
 15. https://ethical.net/resources/
-16. 
+16. https://wotaku.wiki/tools
 
 # Services
 1. [Buzz Heavier - File Hoster](https://buzzheavier.com/)
