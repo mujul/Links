@@ -94,7 +94,7 @@
 41.  [R Toonga](https://sonic.onlineaudience.co.uk/8200/stream)
 42.  [Radio Panna](http://sonic.onlineaudience.co.uk:8158/stream)
 43.  [Radio Gaana](https://stream-162.zeno.fm/q1lehvqz74xuv)
-44.  [Hits of Bollywood](https://stream-169.zeno.fm/a2gyqzwpwfeuv)
+44.  [Hits of Bollywood 2](https://stream-169.zeno.fm/a2gyqzwpwfeuv)
 45.  
 
 
