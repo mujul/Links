@@ -66,7 +66,7 @@
 13. [Goldy Classic](https://stream-144.zeno.fm/hx2wtsw2kwkuv)
 14. [Radio City Hindi](https://stream-146.zeno.fm/pxc55r5uyc9uv)
 15.  [Radio Lata Mangeshkar](https://stream-162.zeno.fm/87xam8pf7tzuv)
-16.  [Retro Bollywood 90s](https://stream-149.zeno.fm/u0hrd3xkzhhvv)
+16.  [Bollywood 90s](https://stream-149.zeno.fm/u0hrd3xkzhhvv)
 17.  [Radio City HipHop](https://stream-140.zeno.fm/dgrgdv2zrf9uv)
 18.  [Udit Narayan](https://stream-153.zeno.fm/un07qvp0em8uv)
 19.  [Mohd Rafi](https://stream-165.zeno.fm/2xx62x8ztm0uv)
