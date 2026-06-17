@@ -1,20 +1,21 @@
 # Stuff
 1. [Pirate Glossary](https://rentry.co/The-Piracy-Glossary)
-2. [Fmhy.vercel.app](https://fmhy.vercel.app/)
-3. [Fmhy.net](https://fmhy.net/)
-4. [Guide.yuuire.com](https://guide.yuuire.com/)
-5. [Music Megathread](https://github.com/MoonWalker440/Music-Megathread)
-6. [Neocities.org](https://neocities.org/)
-7. [Disroot.org](https://disroot.org/en)
-8. [Ripped.guide](https://ripped.guide)
-9. [Champagne Guide](https://champagne.pages.dev/)
-10. [IOS Emulator](https://touchhle.org/)
-11. [Phone Link to PC](https://github.com/shrimqy/Sefirah)
-12. https://gearjail.neocities.org/
-13. https://klearprivacy.vercel.app/recommendations/operating-systems/android
-14. https://prompts.chat/
-15. https://ethical.net/resources/
-16. https://wotaku.wiki/tools
+2. [Ahoy](https://ahoylist.net/)
+3. [Fmhy.vercel.app](https://fmhy.vercel.app/)
+4. [Fmhy.net](https://fmhy.net/)
+5. [Guide.yuuire.com](https://guide.yuuire.com/)
+6. [Music Megathread](https://github.com/MoonWalker440/Music-Megathread)
+7. [Neocities.org](https://neocities.org/)
+8. [Disroot.org](https://disroot.org/en)
+9. [Ripped.guide](https://ripped.guide)
+10. [Champagne Guide](https://champagne.pages.dev/)
+11. [IOS Emulator](https://touchhle.org/)
+12. [Phone Link to PC](https://github.com/shrimqy/Sefirah)
+13. https://gearjail.neocities.org/
+14. https://klearprivacy.vercel.app/recommendations/operating-systems/android
+15. https://prompts.chat/
+16. https://ethical.net/resources/
+17. https://wotaku.wiki/tools
 
 # Services
 1. [Buzz Heavier - File Hoster](https://buzzheavier.com/)
