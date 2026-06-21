@@ -6,5 +6,5 @@
 
 # Apps
 1. https://numb3rs.stream/
-2. [Nuvio.tv](n)
+2. https://nuvio.tv
 3. 
