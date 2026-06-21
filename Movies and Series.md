@@ -3,4 +3,8 @@
 2. https://pahe.ink
 3. https://hdhublist.com/
 4. https://modlist.in/
-5. 
+
+# Apps
+1. https://numb3rs.stream/
+2. [Nuvio.tv](n)
+3. 
