@@ -1,8 +1,10 @@
 # Movies
 1. [Filmy Meet](https://filmyfly2.com.de/)
-2. https://pahe.ink
-3. https://hdhublist.com/
-4. https://modlist.in/
+2. https://hdmovie2a.net/
+3. https://filmywapa.in/
+4. https://pahe.ink
+5. https://hdhublist.com/
+6. https://modlist.in/
 
 # Apps
 1. https://numb3rs.stream/
