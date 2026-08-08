@@ -31,6 +31,16 @@
 
 
 
+# ROOT
+
+1. https://awesome-android-root.pages.dev/apps-and-modules/
+
+
+
+
+
+
+
 
 
 
