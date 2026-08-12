@@ -34,7 +34,10 @@
 # ROOT
 
 1. https://awesome-android-root.pages.dev/apps-and-modules/
-
+2. https://github.com/awesome-android-root/awesome-android-root
+3. https://github.com/MeowDump/Integrity-Box
+4. https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md
+5. 
 
 
 
