@@ -39,6 +39,12 @@
 4. https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md
 5. 
 
+# Xposed Vector Apps
+1. https://github.com/s1ddhants1/SwiftBackupPrem
+
+
+
+
 
 
 # TV
