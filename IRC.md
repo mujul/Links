@@ -1,10 +1,11 @@
 # IRC Wiki
 1. [Netsplit.de](https://netsplit.de/)
-2. https://netsplit.de/networks/top100.php
-3. [Awesome IRC](https://github.com/davisonio/awesome-irc)
-4. [Irchelp.org](https://www.irchelp.org/)
-5. [Ircdriven.com](https://www.ircdriven.com/)
-6. [Koshka IRC](https://koshka.love/irc/index.html)
+2. https://fmhy.vercel.app/downloading#irc-tools
+3. https://netsplit.de/networks/top100.php
+4. [Awesome IRC](https://github.com/davisonio/awesome-irc)
+5. [Irchelp.org](https://www.irchelp.org/)
+6. [Ircdriven.com](https://www.ircdriven.com/)
+7. [Koshka IRC](https://koshka.love/irc/index.html)
 
 
 
