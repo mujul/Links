@@ -3,7 +3,7 @@
 2. [Morphe Patches](https://nvbangg.github.io/awesome-for-morphe/)
 3. https://morphe-patches-drnx64.vercel.app/
 4. https://morphe-patches.software/
-5. https://awesome-morphe.vercel.app/#whats-new
+5. https://awesome-morphe.vercel.app/
 6. 
 7. [Awesome Root](https://awesome-android-root.netlify.app/)
 8. [I Like Android](https://i-like-android.github.io/)
