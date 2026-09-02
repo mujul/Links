@@ -3,21 +3,22 @@
 2. [Morphe Patches](https://nvbangg.github.io/awesome-for-morphe/)
 3. https://morphe-patches-drnx64.vercel.app/
 4. https://morphe-patches.software/
-5. 
-6. [Awesome Root](https://awesome-android-root.netlify.app/)
-7. [I Like Android](https://i-like-android.github.io/)
-8. [Awesome Android Apps](https://github.com/Psyhackological/AAA#contents)
-9. [Android Foss](https://github.com/offa/android-foss)
-10. [Gcam Ports](https://www.celsoazevedo.com/files/android/google-camera)
-11. [Yuurie Android](https://guide.yuuire.com/recommendations/operating-systems/android)
-12. [FMHY-Android](https://fmhy.vercel.app/android-iosguide)
-13. [Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)
-14. https://www.androidfreeware.net/
-15. https://www.openapk.net/
-16. [Mx Player Codec](https://xdaforums.com/t/mx-player-custom-codec-ac3-dts-mlp-truehd-etc.2156254/)
-17. [MX Player Codec 2](https://mx.j2inter.com/ffmpeg)
-18. https://plexus.techlore.tech/
-19. 
+5. https://awesome-morphe.vercel.app/#whats-new
+6. 
+7. [Awesome Root](https://awesome-android-root.netlify.app/)
+8. [I Like Android](https://i-like-android.github.io/)
+9. [Awesome Android Apps](https://github.com/Psyhackological/AAA#contents)
+10. [Android Foss](https://github.com/offa/android-foss)
+11. [Gcam Ports](https://www.celsoazevedo.com/files/android/google-camera)
+12. [Yuurie Android](https://guide.yuuire.com/recommendations/operating-systems/android)
+13. [FMHY-Android](https://fmhy.vercel.app/android-iosguide)
+14. [Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)
+15. https://www.androidfreeware.net/
+16. https://www.openapk.net/
+17. [Mx Player Codec](https://xdaforums.com/t/mx-player-custom-codec-ac3-dts-mlp-truehd-etc.2156254/)
+18. [MX Player Codec 2](https://mx.j2inter.com/ffmpeg)
+19. https://plexus.techlore.tech/
+20. 
 
 # Mod Apks
 1. [Liteapks.com](https://liteapks.com/)
