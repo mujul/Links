@@ -1,21 +1,33 @@
 # Stuff
-1. [Pirate Glossary](https://rentry.co/The-Piracy-Glossary)
-2. [Ahoy](https://ahoylist.net/)
-3. [Fmhy.vercel.app](https://fmhy.vercel.app/)
-4. [Fmhy.net](https://fmhy.net/)
-5. [Guide.yuuire.com](https://guide.yuuire.com/)
-6. [Music Megathread](https://github.com/MoonWalker440/Music-Megathread)
-7. [Neocities.org](https://neocities.org/)
-8. [Disroot.org](https://disroot.org/en)
-9. [Ripped.guide](https://ripped.guide)
-10. [Champagne Guide](https://champagne.pages.dev/)
-11. [IOS Emulator](https://touchhle.org/)
-12. [Phone Link to PC](https://github.com/shrimqy/Sefirah)
+1. https://rentry.co/The-Piracy-Glossary
+2. https://ahoylist.net/
+3. https://fmhy.vercel.app/
+4. https://fmhy.net/
+5. https://guide.yuuire.com/
+6. https://github.com/MoonWalker440/Music-Megathread
+7. https://neocities.org/
+8. https://disroot.org/en
+9. https://ripped.guide
+10. https://champagne.pages.dev/
+11. https://touchhle.org/
+12. https://github.com/shrimqy/Sefirah
 13. https://gearjail.neocities.org/
 14. https://klearprivacy.vercel.app/recommendations/operating-systems/android
 15. https://prompts.chat/
 16. https://ethical.net/resources/
 17. https://wotaku.wiki/tools
+
+
+# Search Engine
+1. https://searx.space/
+2. https://metager.org/
+3. https://www.mojeek.com/
+4. https://swisscows.com/
+5. https://yacy.net/
+6. 
+
+
+
 
 # Services
 1. [Buzz Heavier - File Hoster](https://buzzheavier.com/)
