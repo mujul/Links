@@ -1,21 +1,23 @@
 # Stuff
 1. https://rentry.co/The-Piracy-Glossary
-2. https://ahoylist.net/
-3. https://fmhy.vercel.app/
-4. https://fmhy.net/
-5. https://guide.yuuire.com/
-6. https://github.com/MoonWalker440/Music-Megathread
-7. https://neocities.org/
-8. https://disroot.org/en
-9. https://ripped.guide
-10. https://champagne.pages.dev/
-11. https://touchhle.org/
-12. https://github.com/shrimqy/Sefirah
-13. https://gearjail.neocities.org/
-14. https://klearprivacy.vercel.app/recommendations/operating-systems/android
-15. https://prompts.chat/
-16. https://ethical.net/resources/
-17. https://wotaku.wiki/tools
+2. https://piracy.vercel.app/
+3. 
+4. https://ahoylist.net/
+5. https://fmhy.vercel.app/
+6. https://fmhy.net/
+7. https://guide.yuuire.com/
+8. https://github.com/MoonWalker440/Music-Megathread
+9. https://neocities.org/
+10. https://disroot.org/en
+11. https://ripped.guide
+12. https://champagne.pages.dev/
+13. https://touchhle.org/
+14. https://github.com/shrimqy/Sefirah
+15. https://gearjail.neocities.org/
+16. https://klearprivacy.vercel.app/recommendations/operating-systems/android
+17. https://prompts.chat/
+18. https://ethical.net/resources/
+19. https://wotaku.wiki/tools
 
 
 # Search Engine
