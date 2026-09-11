@@ -21,11 +21,12 @@
 20. 
 
 # Mod Apks
-1. [Liteapks.com](https://liteapks.com/)
-2. [Modyolo.com](https://modyolo.com/)
-3. [5play.org](https://5play.org/en/)
-4. 
+1. https://appteka.store/
+2.  [Liteapks.com](https://liteapks.com/)
+3. [Modyolo.com](https://modyolo.com/)
+4. [5play.org](https://5play.org/en/)
 5. 
+6. 
 
 # BEST Apps
 1. [Nicks FairEmail](https://github.com/niks255/FairEmail/releases)
