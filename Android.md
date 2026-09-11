@@ -51,7 +51,7 @@
 # TV
 
 1. https://github.com/reisxd/TizenTubeCobalt
-2. 
+2. https://tizentube.app/
 
 
 
