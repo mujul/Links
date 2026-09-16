@@ -1,7 +1,5 @@
 # Guides
 1. [Awesome Security](https://github.com/ashishb/android-security-awesome)
-2. [Morphe Patches](https://nvbangg.github.io/awesome-for-morphe/)
-3. https://morphe-patches-drnx64.vercel.app/
 4. https://morphe-patches.software/
 5. https://awesome-morphe.vercel.app/
 6. 
