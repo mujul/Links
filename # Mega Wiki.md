@@ -21,8 +21,8 @@
 20. https://ethical.net/resources/
 21. https://wotaku.wiki/tools
 22. https://github.com/MoonWalker440/TeleBotList
-23. https://github.com/zolagonano/awesome-zeronet#readme
-
+23. https://github.com/zolagonano/awesome-zeronet#read
+24. https://github.com/hagezi/dns-blocklists
 # Search Engine
 1. https://searx.space/
 2. https://metager.org/
